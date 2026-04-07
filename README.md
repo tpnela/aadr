@@ -5,6 +5,7 @@ A collection of general purpose Architecture Decision Records in a simplified fo
 ## Records
 - [AADR-001 - Java interfaces](records/AADR-001.md)
 - [AADR-006 - Logging practises](records/AADR-006.md)
+- [AADR-009 - The use of JavaDoc to document Java implementations](records/AADR-009.md)
 
 ## Specialisation domains
 - [ALL](aggregations/ALL.md)
