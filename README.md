@@ -3,8 +3,12 @@ A collection of general purpose Architecture Decision Records in a simplified fo
 
 # Content
 ## Records
+- [AADR-001 - Java interfaces](records/AADR-001.md)
+- [AADR-006 - Logging practises](records/AADR-006.md)
 
 ## Specialisation domains
+- [ALL](aggregations/ALL.md)
+- [JAVA](aggregations/JAVA.md)
 
 # How this works
 * Each decision record sits in its own file

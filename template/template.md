@@ -1,5 +1,5 @@
 # Title
-ADR-{nnn} - A single line wherein we see what the record is about
+AADR-{nnn} - A single line wherein we see what the record is about
 
 # Applies
 - {DOMAIN}
