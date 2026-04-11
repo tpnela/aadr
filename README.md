@@ -4,7 +4,7 @@ A collection of general purpose Architecture Decision Records in a simplified fo
 # Content
 ## Records
 - [AADR-001 - Java interfaces](records/AADR-001.md)
-- [AADR-004 - Documenting the application](records/AADR-004.md)
+- [AADR-004 - Documenting the application (INCOMPLETE)](records/AADR-004.md)
 - [AADR-006 - Logging practises](records/AADR-006.md)
 - [AADR-008 - Git Usage, Branching Strategy, and Commit formatting](records/AADR-008.md)
 - [AADR-009 - The use of JavaDoc to document Java implementations](records/AADR-009.md)
